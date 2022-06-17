@@ -1,6 +1,8 @@
 # Hacking Wifi
 This repository will detail the principle of testing your network. With <a href="https://www.aircrack-ng.org/">aircrack-ng</a>.<br>
 
+__You can look at the script repository for hacking a wifi network. <a href="https://github.com/John-MetrosSoftware/HackingWifiScript">Link</a>.__
+
 ## Install aircrack-ng
 ```
 sudo apt install aircrack-ng
