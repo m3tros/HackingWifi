@@ -68,5 +68,4 @@ After that, if specifically in the dictionary you specified there is a password 
 <br><br>
 Here we have analyzed the easiest way to hack a wifi network using brute force.
 ## Developer 
-Email    : wwwkali00312@gmail.com<br>
 Telegram : https://t.me/metrossoftware
