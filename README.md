@@ -1,4 +1,9 @@
-# Hacking Wifi
+<p align="center"> 
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178257.png?token=exp=1656614517~hmac=4201af74c509fc6632475be12260022b" alt="HackingWifi" width="80" height="80">
+</p>
+<h1 align="center">HackingWifi</h1>
+
+
 This repository will detail the principle of testing your network. With <a href="https://www.aircrack-ng.org/">aircrack-ng</a>.<br>
 
 __You can look at the script repository for hacking a wifi network. <a href="https://github.com/John-MetrosSoftware/HackingWifiScript">Link</a>.__
@@ -67,5 +72,4 @@ aircrack-ng handshake-01.cap -w /usr/share/wordlists/rockyou.txt
 After that, if specifically in the dictionary you specified there is a password combination that will be correct, then the password will be determined and brute force will end; if there is no such combination in the dictionary, then try in another one.
 <br><br>
 Here we have analyzed the easiest way to hack a wifi network using brute force.
-## Developer 
-Telegram : https://t.me/metrossoftware
+
